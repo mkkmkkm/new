@@ -7,6 +7,6 @@
 <title>Index.jsp</title>
 </head>
 <body>
-
+	<p1>변경사항 생김</p1>
 </body>
 </html>
